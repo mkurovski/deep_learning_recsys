@@ -33,6 +33,7 @@ For the first step approximate nearest neighbor search on embeddings turns out t
 
 2. **Ranking**: (Re-)Rank the candidates using a more accurate, but computationally more expensive model (focus on precision).
 This second step uses the RankNet only based on a given user representation and the provided candidate representations.
+
 ![](img/networks.png?raw=true "DL Network Composition")
 
 ## Architecture for Production
@@ -43,3 +44,5 @@ This second step uses the RankNet only based on a given user representation and 
 * Apply work to RecSys Challenge 2017
 * Apply work to RecSys Challenge 2018
 * For more information, visit my Medium blogpost in the ebay Tech Berlin
+
+> We can only see a short distance ahead, but we can see plenty there that needs to be done. (Alan Turing)
