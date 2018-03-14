@@ -1,6 +1,8 @@
 # deep_learning_recsys
 Deep Learning for Recommender Systems - Master Thesis, Current Results and Architecture
 
+For details see also [my blogpost on Medium](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
+
 # Deep Learning for Recommender Systems
 This repository contains the proof-of-concept for a Recommender System that learns
 user and item (vehicle) representations in a nonlinear fashion using Deep Learning.
